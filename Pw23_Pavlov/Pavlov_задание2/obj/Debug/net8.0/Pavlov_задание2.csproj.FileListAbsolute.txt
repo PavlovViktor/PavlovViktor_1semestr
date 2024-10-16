@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\bin\Debug\net8.0\Pavlov_задание2.exe
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\bin\Debug\net8.0\Pavlov_задание2.deps.json
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\bin\Debug\net8.0\Pavlov_задание2.runtimeconfig.json
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\bin\Debug\net8.0\Pavlov_задание2.dll
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\bin\Debug\net8.0\Pavlov_задание2.pdb
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\Pavlov_задание2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\Pavlov_задание2.AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\Pavlov_задание2.AssemblyInfo.cs
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\Pavlov_задание2.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\Pavlov_задание2.dll
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\refint\Pavlov_задание2.dll
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\Pavlov_задание2.pdb
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\Pavlov_задание2.genruntimeconfig.cache
+C:\Users\Student28\source\repos\Pw23_Pavlov\Pavlov_задание2\obj\Debug\net8.0\ref\Pavlov_задание2.dll
