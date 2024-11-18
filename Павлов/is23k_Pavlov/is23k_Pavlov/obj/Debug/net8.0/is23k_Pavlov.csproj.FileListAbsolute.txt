@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\bin\Debug\net8.0\is23k_Pavlov.exe
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\bin\Debug\net8.0\is23k_Pavlov.deps.json
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\bin\Debug\net8.0\is23k_Pavlov.runtimeconfig.json
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\bin\Debug\net8.0\is23k_Pavlov.dll
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\bin\Debug\net8.0\is23k_Pavlov.pdb
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\is23k_Pavlov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\is23k_Pavlov.AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\is23k_Pavlov.AssemblyInfo.cs
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\is23k_Pavlov.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\is23k_Pavlov.dll
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\refint\is23k_Pavlov.dll
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\is23k_Pavlov.pdb
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\is23k_Pavlov.genruntimeconfig.cache
+C:\Users\Student28\source\repos\is23k_Pavlov\is23k_Pavlov\obj\Debug\net8.0\ref\is23k_Pavlov.dll

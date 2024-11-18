@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "is23k_Pavlov/1.0.0": {
+        "runtime": {
+          "is23k_Pavlov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "is23k_Pavlov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
