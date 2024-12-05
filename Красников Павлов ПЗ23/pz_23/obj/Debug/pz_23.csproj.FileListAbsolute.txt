@@ -1,0 +1,10 @@
+C:\Users\Student28\source\repos\pz_23\pz_23\bin\Debug\pz_23.exe.config
+C:\Users\Student28\source\repos\pz_23\pz_23\bin\Debug\pz_23.exe
+C:\Users\Student28\source\repos\pz_23\pz_23\bin\Debug\pz_23.pdb
+C:\Users\Student28\source\repos\pz_23\pz_23\obj\Debug\pz_23.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\pz_23\pz_23\obj\Debug\pz_23.Form1.resources
+C:\Users\Student28\source\repos\pz_23\pz_23\obj\Debug\pz_23.Properties.Resources.resources
+C:\Users\Student28\source\repos\pz_23\pz_23\obj\Debug\pz_23.csproj.GenerateResource.cache
+C:\Users\Student28\source\repos\pz_23\pz_23\obj\Debug\pz_23.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\pz_23\pz_23\obj\Debug\pz_23.exe
+C:\Users\Student28\source\repos\pz_23\pz_23\obj\Debug\pz_23.pdb
