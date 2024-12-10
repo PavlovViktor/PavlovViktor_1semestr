@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\pw_25\pw_25\bin\Debug\net8.0\pw_25.exe
+C:\Users\Student28\source\repos\pw_25\pw_25\bin\Debug\net8.0\pw_25.deps.json
+C:\Users\Student28\source\repos\pw_25\pw_25\bin\Debug\net8.0\pw_25.runtimeconfig.json
+C:\Users\Student28\source\repos\pw_25\pw_25\bin\Debug\net8.0\pw_25.dll
+C:\Users\Student28\source\repos\pw_25\pw_25\bin\Debug\net8.0\pw_25.pdb
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\pw_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\pw_25.AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\pw_25.AssemblyInfo.cs
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\pw_25.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\pw_25.dll
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\refint\pw_25.dll
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\pw_25.pdb
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\pw_25.genruntimeconfig.cache
+C:\Users\Student28\source\repos\pw_25\pw_25\obj\Debug\net8.0\ref\pw_25.dll
